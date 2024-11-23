@@ -3,7 +3,7 @@
 ## EC11 Rotary Encoder Knob and Cover
 
 - Maker World https://makerworld.com/en/models/813137
-- Printables
+- Printables https://www.printables.com/model/1083443-ec11-rotary-encoder-knob-and-cover
 - GitHub https://github.com/Taro-Hayashi/Keyboard-3D/tree/main/EC11Cover
 ![](img/EC11Cover.jpg)
 
