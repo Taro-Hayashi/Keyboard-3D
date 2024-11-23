@@ -13,7 +13,7 @@
 ## Joystick Cap
 
 - Maker World https://makerworld.com/en/models/813127
-- Printables
+- Printables https://www.printables.com/model/1083436-joystick-cap
 - GitHub https://github.com/Taro-Hayashi/Keyboard-3D/tree/main/JoystickCap
 ![](img/JoystickCap.jpg)
 
