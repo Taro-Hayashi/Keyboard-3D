@@ -41,4 +41,4 @@
 
 ### Others
 Non-keyboard models can be found here
-- https://github.com/Taro-Hayashi/Keyboard-3D
+- https://github.com/Taro-Hayashi/Misc-3D
