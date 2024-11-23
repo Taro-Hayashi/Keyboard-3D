@@ -1,4 +1,4 @@
-# Keyboard-3D
+# Model for keyboard
 
 ## EC11 Rotary Encoder Knob and Cover
 
