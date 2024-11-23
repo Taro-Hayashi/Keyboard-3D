@@ -1,4 +1,4 @@
-# Joystick Cap
+# Mouse Wheel
 
 |File Name|Description|
 |-|-|
